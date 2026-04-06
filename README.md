@@ -1,10 +1,10 @@
-# 🛡️ Red Fort Ops: Bug Bounty & Web Security Journey
+# 🛡️ $\color{blue}{\text{Red Fort Ops: Bug Bounty and Web Security Journey}}$
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Manual_Hunting-blue)
 ![Platform](https://img.shields.io/badge/Platform-PortSwigger-orange)
 
-Welcome to the central repository for **Red Fort Ops'** Bug Bounty initiative. This workspace tracks our structured journey from mastering web security fundamentals to hunting on live Vulnerability Disclosure Programs (VDPs). 
+<span style="color:#ff0000">Welcome</span> to the central repository for **Red Fort Ops'** Bug Bounty initiative. This workspace tracks our structured journey from mastering web security fundamentals to hunting on live Vulnerability Disclosure Programs (VDPs). 
 
 ## 🎯 Our Mission
 We are a collective of security enthusiasts transitioning into the Bug Bounty ecosystem. Our core philosophy is built on **Manual Testing**. Before relying on automated scanners, we believe in deeply understanding web architecture to uncover complex Business Logic Errors, IDORs, and chain vulnerabilities.
